@@ -27,13 +27,5 @@ It is built through Capture The Flag (CTF) challenges and lab environments, and 
   Defensive recommendations and secure configuration practices based on observed vulnerabilities.
 
 ## Current Work
-- Converting a university CTF (Gamma) into a professional case study
-- Documenting Linux privilege escalation techniques:
-  - NFS misconfigurations
-  - Docker group abuse
-  - Cron wildcard injection
-  - Misconfigured sudo rules
-
-## Disclaimer
-All targets were intentionally vulnerable lab machines or CTF environments.  
-This repository is for educational purposes only.
+- Adding basic linux initial access and priv-esc vectors as stand alone techniques
+- Will start working on CTF and lab environments with structured walk-throughs and remediation techniques
