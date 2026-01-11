@@ -27,5 +27,5 @@ It is built through Capture The Flag (CTF) challenges and lab environments, and 
   Defensive recommendations and secure configuration practices based on observed vulnerabilities.
 
 ## Current Work
-- Adding basic linux initial access and priv-esc vectors as stand alone techniques
-- Will start working on CTF and lab environments with structured walk-throughs and remediation techniques
+- Working on DC-1 walk-through, specifically will start the priv-esc part
+- Will also add techniques used in the linux section
