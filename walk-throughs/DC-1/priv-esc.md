@@ -26,5 +26,4 @@ Using the -exec option, a shell was spawned as root:
   whoami
   ```
   <img width="296" height="75" alt="image" src="https://github.com/user-attachments/assets/a06f7836-4ae0-4f98-85af-63ff0113dc28" />
-  For a detailed explanation of SUID abuse techniques, see:
-  [Linux SUID Binary Abuse](../../linux/techniques/privilege-escalation/SUID-binaries.md)
+  For a detailed explanation of SUID abuse techniques, see: [Linux SUID Binary Abuse](/linux/privilege-escalation/SUID-binaries.md)
