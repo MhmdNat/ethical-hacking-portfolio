@@ -20,12 +20,6 @@ It is built through Capture The Flag (CTF) challenges and lab environments, and 
 - `web/`  
   Web exploitation techniques.
 
-- `methodology/`  
-  Notes on reconnaissance, exploitation workflow, and general pentesting approach.
-
-- `remediation/`  
-  Defensive recommendations and secure configuration practices based on observed vulnerabilities.
-
 ## Current Work
 - Working on DC-1 walk-through, specifically will start the priv-esc part
 - Will also add techniques used in the linux section
