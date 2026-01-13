@@ -21,5 +21,5 @@ It is built through Capture The Flag (CTF) challenges and lab environments, and 
   Web exploitation techniques.
 
 ## Current Work
-- Working on DC-1 walk-through, specifically will start the priv-esc part
-- Will also add techniques used in the linux section
+- Working on DC-2 walk-through
+- Will also add techniques used in the linux section and web section if applicable
