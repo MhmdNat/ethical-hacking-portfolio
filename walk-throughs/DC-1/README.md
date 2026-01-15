@@ -25,10 +25,10 @@ The focus of this case study is **enumeration and SUID binary abuse**, along wit
 ---
 
 ## Repository Structure
-```text
-DC-1/
-  scanning-and-enumeration.md
-  exploitation.md
-  priv-esc.md
-  mitigation-and-recommendations.md
-```
+DC-2/
+├── README.md                         # Overview and attack summary
+├── scanning-and-enumeration.md       # Service discovery and attack surface mapping
+├── exploitation.md                   # Initial access and attack vectors
+├── privilege-escalation.md           # Local escalation and lateral movement
+└── mitigation-and-recommendations.md # Defensive controls and fixes
+
