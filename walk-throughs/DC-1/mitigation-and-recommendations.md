@@ -18,6 +18,3 @@ chmod u-s /usr/bin/find
 - Keep web applications and dependencies up to date
 - Vulnerabilities such as Drupalgeddon demonstrate how outdated CMS software can lead to remote code execution and initial system compromise. Timely patching and version management are critical at the application layer.
 - Run web services under restriced service users to minimize exploitation impact
-
-## Implement defense-in-depth controls
-Mandatory access controls (e.g., AppArmor or SELinux), along with file integrity monitoring, can help restrict the actions of compromised processes and detect unauthorized system changes.
