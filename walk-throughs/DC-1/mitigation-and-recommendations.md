@@ -7,7 +7,7 @@ The system was running an outdated Linux kernel (3.2) with publicly known privil
 ## SUID permissions 
 - The find binary should not be SUID-enabled under normal circumstances, as it allows arbitrary command execution when misconfigured. The SUID bit should be removed unless there is a strict operational requirement:
 ```bash
-chmod u-s /usr/bin/find
+chmod u-s /bin/find
 ```
 - Other recommendations include:
   - Audit SUID and SGID binaries regularly to identify unnecessary or misconfigured binaries
