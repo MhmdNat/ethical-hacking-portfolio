@@ -20,5 +20,5 @@ It is built through Capture The Flag (CTF) challenges and lab environments, and 
   Web exploitation techniques.
 
 ## Current Work
-- Working on DC-2 remediations
-- Also adding techniques used in the linux section and web section if applicable
+- Working on cap, a HackTheBox machine and writing the corresponding report
+- Also adding the used access and priv-esc techniques in the linux section and web section when applicable
