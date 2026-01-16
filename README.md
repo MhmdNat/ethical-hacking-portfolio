@@ -18,7 +18,7 @@ It is built through Capture The Flag (CTF) challenges and lab environments, and 
 
 - `web/`  
   Web exploitation techniques.
----
+
 ## Current Work
 - Working on DC-2 remediations
 - Also adding techniques used in the linux section and web section if applicable
