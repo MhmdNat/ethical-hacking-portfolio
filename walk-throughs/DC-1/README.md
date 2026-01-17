@@ -21,14 +21,3 @@ The focus of this case study is **enumeration and SUID binary abuse**, along wit
 4. Privilege escalation achieved via SUID abuse
 5. Root access confirmed
 6. Mitigation strategies proposed to prevent recurrence
-
----
-
-## Repository Structure
-DC-2/
-├── README.md                         # Overview and attack summary
-├── scanning-and-enumeration.md       # Service discovery and attack surface mapping
-├── exploitation.md                   # Initial access and attack vectors
-├── privilege-escalation.md           # Local escalation and lateral movement
-└── mitigation-and-recommendations.md # Defensive controls and fixes
-
