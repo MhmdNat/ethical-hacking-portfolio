@@ -10,7 +10,7 @@ It is built through Capture The Flag (CTF) challenges and lab environments, and 
 - Defensive remediation and hardening
   
 ## Repository Structure
-- `case-studies/`  
+- `walk-throughs/`  
   End-to-end attack narratives for selected CTFs, this will use a walkthrough approach.
 
 - `linux/`  
@@ -20,5 +20,5 @@ It is built through Capture The Flag (CTF) challenges and lab environments, and 
   Web exploitation techniques.
 
 ## Current Work
-- Working on cap, a HackTheBox machine and writing the corresponding report
+- Exploiting Kioptrix 1.2 and documenting the findings in `walk-throughs/`
 - Also adding the used access and priv-esc techniques in the linux section and web section when applicable
