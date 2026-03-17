@@ -20,5 +20,5 @@ It is built through Capture The Flag (CTF) challenges and lab environments, and 
   Web exploitation techniques.
 
 ## Current Work
-- Exploiting Kioptrix 1.2 and documenting the findings in `walk-throughs/`
+- Exploiting cctv-htb and will document the findings in `walk-throughs/`
 - Also adding the used access and priv-esc techniques in the linux section and web section when applicable
